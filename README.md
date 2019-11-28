@@ -1,7 +1,8 @@
 ## Project Description
 
 Tasche is a smart and chic handbag which will make your everyday life easier. Along with covering basic necessities of a hand bag it has various other features embedded in it.
-Task Scheduler
+
+####Task Scheduler
 
 In the modern day world, this bag will help increase your efficiency by managing your tasks.
 There is an lcd display on the bag. This would show the tasks that you have to do. You can use the touch sensor to see what the next task is.
